@@ -54,14 +54,11 @@ function App() {
   }
 
   //Abrir Sumario
-  //Todo later
-  //for now just console log the id of the item
   const openSumario = (id) =>{
     console.log('open',id)
   }
 
   //Deletar Sumario
-
   return (
     <Router>
       <div className="container">
