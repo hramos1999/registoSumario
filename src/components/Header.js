@@ -28,7 +28,7 @@ const Header = ({title,onAdd,showSumario}) => {
 }
 
 Header.defaultProps = {
-    title : 'Registo de Sumarios',
+    title : 'Registo de Sumários',
 }
 
 Header.propTypes = {
